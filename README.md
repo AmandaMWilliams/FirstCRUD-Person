@@ -2,7 +2,7 @@
 
 ### Introduction
 My introduction into SpringBoot and CRUD.  
-Completed by following the outline on [Curriculeon](https://curriculeon.github.io/Curriculeon/lectures/java/web/spring/my-first-project/content.html).  
+Completed by following an outlined walk-through on [Curriculeon](https://curriculeon.github.io/Curriculeon/lectures/java/web/spring/my-first-project/content.html).  
 
 ### About  
 Created:
